@@ -1,5 +1,14 @@
 {
     "names": {
         "_": "bd4ae3e67e29964d494172261dc45395c89f6bd2e774642e366127171dfb81f5"
+    },
+    "relays": {
+        "bd4ae3e67e29964d494172261dc45395c89f6bd2e774642e366127171dfb81f5": [
+            "wss://nos.lol",
+            "wss://nostr.mom",
+            "wss://relay.nostr.bg",
+            "wss://nostr.inosta.cc",
+            "wss://nostr.oxtr.dev"
+        ]
     }
 }
