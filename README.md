@@ -1,3 +1,3 @@
-- GPG: [`523F D366 0160 B509 41DB 1F96 E4A3 193C 6CAA 375B`](https://trustless-gateway.link/ipfs/bafybeieuhjiq5kmoqerjiojvmyx3mpjgdah4e2pua4qjayqmy6iiprem6m#x-ipfs-companion-no-redirect)
+- GPG: [`523F D366 0160 B509 41DB 1F96 E4A3 193C 6CAA 375B`](https://github.com/kehiy.gpg)
 - Email: [`me@kehiy.net`](mailto:me@kehiy.net)
 - Notstr (NIP-5): [`_@kehiy`](https://njump.me/kehiy.net)
