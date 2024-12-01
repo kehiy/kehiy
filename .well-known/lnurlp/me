@@ -2,7 +2,7 @@
   "callback": "https://livingroomofsatoshi.com/api/v1/lnurl/payreq/6694ea89-3ea4-472b-b2e5-37f24f228a57",
   "maxSendable": 100000000000,
   "minSendable": 1000,
-  "metadata": "[[\"text/plain\",\"Pay to Wallet of Satoshi user: kehiy\"],[\"text/identifier\",\"kehiy@walletofsatoshi.com\"]]",
+  "metadata": "[[\"text/plain\",\"together we stand, independent we fall.\"],[\"text/identifier\",\"me@kehiy.net\"]]",
   "commentAllowed": 255,
   "tag": "payRequest",
   "allowsNostr": true,
