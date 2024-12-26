@@ -4,7 +4,7 @@
     },
     "relays": {
         "bd4ae3e67e29964d494172261dc45395c89f6bd2e774642e366127171dfb81f5": [
-            "wss://relay.jellyfish.land"
+            "wss://jellyfish.land"
         ]
     }
 }
