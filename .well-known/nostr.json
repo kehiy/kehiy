@@ -1,9 +1,13 @@
 {
     "names": {
-        "_": "bd4ae3e67e29964d494172261dc45395c89f6bd2e774642e366127171dfb81f5"
+        "_": "bd4ae3e67e29964d494172261dc45395c89f6bd2e774642e366127171dfb81f5",
+        "triangles" : "fe2967e45057938c1998716e74ebceb95cf3ac904fcdf8c82448cb27964e8ef8"
     },
     "relays": {
         "bd4ae3e67e29964d494172261dc45395c89f6bd2e774642e366127171dfb81f5": [
+            "wss://jellyfish.land"
+        ],
+        "fe2967e45057938c1998716e74ebceb95cf3ac904fcdf8c82448cb27964e8ef8":[
             "wss://jellyfish.land"
         ]
     }
